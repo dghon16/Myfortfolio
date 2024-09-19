@@ -12,3 +12,7 @@ background-color: #e2edff;
 section {
 	padding-top: rem;
 }
+.bld {
+  font-weight: bold;
+  height: 10px;
+}
